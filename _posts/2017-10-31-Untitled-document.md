@@ -8,5 +8,5 @@ published: true
 ---
 Great coding video, very helpful. I learned more that the whole term in 5 minutes:
 
-https://goo.gl/Mk3NLj
+[Click ME](https://goo.gl/DdRkKv)
 
